@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev"
+name = "basit"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+UUID = "5c454999-ec3a-4d1d-aaa9-9bc85c43ee63"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
